@@ -18,6 +18,6 @@ function destructivelyAddElementToEndOfArray(array, newString) {
   return array
 }
 
-function accessElementInArray(array, x) {
-  return array[x]
+function accessElementInArray(array, i) {
+  return array[i]
 }
